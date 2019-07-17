@@ -7,9 +7,11 @@ A/B tests are very commonly performed by data analysts and data scientists.
 
 In this project, work is done to understand the results of an A/B test run by an e-commerce website. The goal is to help the company understand if they should implement the new page, keep the old page, or perhaps run the experiment longer through the analysis report so that they are able to make their decision.
 
+To achieve the goal, as mentioned above, heavy use of **practical statistics** is done in most of the report to place emphasis on the **analysis** part of the **data analysis process**.
+
 
 ## **Softwares needed:**
-*You will need an installation of Python, plus the following libraries:
+You will need an installation of Python, plus the following libraries:
 1. pandas
 2. NumPy
 3. Matplotlib
